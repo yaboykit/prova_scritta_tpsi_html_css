@@ -15,5 +15,5 @@ Di seguito sono elencati i punti per il completamento del sito:
 2. Appena sotto il `<body>`, aggiungi un `div` contenente una lista non ordinata: tag `<ul>`
    * Inserisci tre list items per le pagine: `home.html`, `courses.html`, `contacts.html` ed aggiungi rispettivamente i seguenti testi: `Home`, `Courses`, `Contacts`
    * Rendi cliccabili i tre list items in modo da reindirizzare l'utente alla pagina corretta
-3. Assegna al `div` creato al punto 2. la classe `header` ed al tag `ul` la classe `header`
+3. Assegna al `div` creato al punto 2. la classe `header` ed al tag `ul` la classe `nav`
 ![punti_1_2_3](https://github.com/user-attachments/assets/6eb50cfd-5990-43c3-8b88-f7172ca083e9)
