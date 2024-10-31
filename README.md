@@ -27,3 +27,9 @@ Di seguito sono elencati i punti per il completamento del sito:
 ![punto_5](https://github.com/user-attachments/assets/a953b727-4696-4d18-bec3-a0f6f166b202)
 6. Eliminare la riga (sottolineatura) per ogni tag `<a>` della classe `nav`
 ![punto_6](https://github.com/user-attachments/assets/d98eba33-38c9-4b1a-a6a4-b61fa732dd8b)
+7. Applicare alla classe `nav` le seguenti regole
+   * colore di sfondo: `#FFD700`
+   * padding superiore ed inferiore: 2px
+   * bordo: 1 px
+   * colore del bordo: `#e7e7e7`
+![punto_7](https://github.com/user-attachments/assets/f54e1c7d-2e75-4dc6-bd9c-12f8bee85cb8)
