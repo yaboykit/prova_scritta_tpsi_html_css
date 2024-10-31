@@ -52,3 +52,5 @@ Di seguito sono elencati i punti per il completamento del sito:
     * larghezza e lunghezza: 900px
     * margine alto e basso: 0
     * margine destro e sinistro: auto
+      
+![punto_10](https://github.com/user-attachments/assets/dd7e92c1-7274-4181-ace3-b7adad6d984c)
