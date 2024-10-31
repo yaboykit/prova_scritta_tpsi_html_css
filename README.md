@@ -64,7 +64,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 
 ![punto_13](https://github.com/user-attachments/assets/d0bca26c-ed00-471d-9b9b-247de923c029)
 
-14. Applica queste regole css alla classe footer
+14. Applica queste regole css alla classe footer per posizinare il footer in basso alla pagina, settare il colore e centrare i tag inline al suo interno
 
 ```css
 {
