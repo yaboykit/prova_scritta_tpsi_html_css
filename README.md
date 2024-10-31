@@ -17,3 +17,6 @@ Di seguito sono elencati i punti per il completamento del sito:
    * Rendi cliccabili i tre list items in modo da reindirizzare l'utente alla pagina corretta
 3. Assegna al `div` creato al punto 2. la classe `header` ed al tag `ul` la classe `nav`
 ![punti_1_2_3](https://github.com/user-attachments/assets/6eb50cfd-5990-43c3-8b88-f7172ca083e9)
+4. Allinea al centro il testo per la classe `nav`
+![punto_4](https://github.com/user-attachments/assets/0210f162-6f34-42f6-84c1-69502734db52)
+
