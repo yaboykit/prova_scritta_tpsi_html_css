@@ -87,6 +87,6 @@ Di seguito sono elencati i punti per il completamento del sito:
 17. Setta il padding sinistro dei tag `ul` della classe `cv` a zero mentre per i tag `li` della classe `cv`: elimina i pallini, giustifica il testo al loro interno ed infine aggiunti un bordo solo inferiore con linea spessa 1 px e colore `#FFD700`
 ![punto_17](https://github.com/user-attachments/assets/d4ddabe3-1fdc-4136-bb09-dbbf98ffa1c5)
 
-18. Giustifica il testo della classe `me`, aggiungi l'immagine `images/me.jfif` in `home.html` sotto `<h2>About me</h2>`
+18. Giustifica il testo della classe `me`, aggiungi l'immagine `images/me.jfif` in `home.html` sotto `<h2>About me</h2>` rendila flottante a sinistra ed imposta un padding destro di 10px
 
 ![punto_18](https://github.com/user-attachments/assets/b77001ee-42ca-4249-bb1a-bfa9aad61857)
