@@ -78,5 +78,6 @@ Di seguito sono elencati i punti per il completamento del sito:
 ```
 
 15. Assegna in `home.html` al primo `div` dentro la classe `main` (il `div` che contiene `<h2>About me</h2>`) la classe `me`, al `div` successivo (il `div` che contiene `<h2>Working Experience</h2>` la classe `cv`) 
-16. 
+16. Rendi i tag `img` della classe `cv` flottanti a sinistra ed imposta la loro larghezza e altezza a 60px, aggiungi anche un padding destro di 10px
+![punto_16](https://github.com/user-attachments/assets/71f906a8-c3ff-46b3-8cfd-93466d8f5b04)
 
