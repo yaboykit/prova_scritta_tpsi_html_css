@@ -16,3 +16,4 @@ Di seguito sono elencati i punti per il completamento del sito:
    * Inserisci tre list items per le pagine: `home.html`, `courses.html`, `contacts.html` ed aggiungi rispettivamente i seguenti testi: `Home`, `Courses`, `Contacts`
    * Rendi cliccabili i tre list items in modo da reindirizzare l'utente alla pagina corretta
 3. Assegna al `div` creato al punto 2. la classe `header`
+![punti_1_2_3](https://github.com/user-attachments/assets/6eb50cfd-5990-43c3-8b88-f7172ca083e9)
