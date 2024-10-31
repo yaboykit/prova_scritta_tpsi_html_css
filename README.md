@@ -25,3 +25,5 @@ Di seguito sono elencati i punti per il completamento del sito:
    * margine sinistro e destro a 40 px
    * trasforma il list item da block level tag ad inline (in moda da essere mostrati tutti sulla stessa riga)
 ![punto_5](https://github.com/user-attachments/assets/a953b727-4696-4d18-bec3-a0f6f166b202)
+6. Eliminare la riga (sottolineatura) per ogni tag `<a>` della classe `nav`
+![punto_6](https://github.com/user-attachments/assets/d98eba33-38c9-4b1a-a6a4-b61fa732dd8b)
