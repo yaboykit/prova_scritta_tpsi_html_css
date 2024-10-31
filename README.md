@@ -77,7 +77,13 @@ Di seguito sono elencati i punti per il completamento del sito:
 }
 ```
 
-15. Assegna in `home.html` al primo `div` dentro la classe `main` (il `div` che contiene `<h2>About me</h2>`) la classe `me`, al `div` successivo (il `div` che contiene `<h2>Working Experience</h2>` la classe `cv`) 
+![punto_14](https://github.com/user-attachments/assets/d367d436-a3c8-474d-8d7c-83b8f4de5776)
+
+15. Assegna in `home.html` al primo `div` dentro la classe `main` (il `div` che contiene `<h2>About me</h2>`) la classe `me`, al `div` successivo (il `div` che contiene `<h2>Working Experience</h2>` la classe `cv`)
+  
 16. Rendi i tag `img` della classe `cv` flottanti a sinistra ed imposta la loro larghezza e altezza a 60px, aggiungi anche un padding destro di 10px
 ![punto_16](https://github.com/user-attachments/assets/71f906a8-c3ff-46b3-8cfd-93466d8f5b04)
+
+17. Setta il padding sinistro dei tag `ul` della classe `cv` a zero mentre per i tag `li` della classe `cv`: elimina i pallini, giustifica il testo al loro interno ed infine aggiunti un bordo solo inferiore con linea spessa 1 px e colore `#FFD700`
+![punto_17](https://github.com/user-attachments/assets/d4ddabe3-1fdc-4136-bb09-dbbf98ffa1c5)
 
