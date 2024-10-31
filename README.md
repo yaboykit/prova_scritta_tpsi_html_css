@@ -47,3 +47,8 @@ Di seguito sono elencati i punti per il completamento del sito:
 ![punto_8](https://github.com/user-attachments/assets/212d9782-fa5b-4294-bc1f-e9dfeac32a6e)
 
 9. Assegnare in tutte le pagine (`home.html`, `courses.html`, `contacts.html`, `tpsi_5a_24_25.html`) al `div` subito sotto il `div` di chiusura della classe `.header` la classe `main`
+
+10. Settare per la classe `main` le seguenti regole (allineamento al centro della pagina per il div .main)
+    * larghezza e lunghezza: 900px
+    * margine alto e basso: 0
+    * margine destro e sinistro: auto
