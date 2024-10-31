@@ -48,9 +48,32 @@ Di seguito sono elencati i punti per il completamento del sito:
 
 9. Assegnare in tutte le pagine (`home.html`, `courses.html`, `contacts.html`, `tpsi_5a_24_25.html`) al `div` subito sotto il `div` di chiusura della classe `.header` la classe `main`
 
-10. Settare per la classe `main` le seguenti regole (allineamento al centro della pagina per il div .main)
+10. Settare per la classe `main` le seguenti regole (allineamento al centro della pagina per il `div` .main)
     * larghezza e lunghezza: 900px
     * margine alto e basso: 0
     * margine destro e sinistro: auto
       
 ![punto_10](https://github.com/user-attachments/assets/dd7e92c1-7274-4181-ace3-b7adad6d984c)
+
+11. Assegna all'ultimo `div` in `home.html` la classe `footer` e copia questo `div` in tutte le altre pagine restanti (sempre come ultimo tag prima della chiusura del `body`)
+12. Imposta una larghezza per i tag `img` della classe `footer` pari a 50 px
+
+![punto_12](https://github.com/user-attachments/assets/b34a1d0e-2fbd-4564-ac69-961108ab637c)
+
+13. Trasforma i tag `li` della classe `footer` in inline tag in modo da mostrali sulla stessa riga
+
+![punto_13](https://github.com/user-attachments/assets/d0bca26c-ed00-471d-9b9b-247de923c029)
+
+14. Applica queste regole css alla classe footer
+
+```css
+{
+    background-color: #FFD700;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align: center;
+}
+```
+
