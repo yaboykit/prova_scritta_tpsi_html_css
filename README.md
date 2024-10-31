@@ -77,3 +77,6 @@ Di seguito sono elencati i punti per il completamento del sito:
 }
 ```
 
+15. Assegna in `home.html` al primo `div` dentro la classe `main` (il `div` che contiene `<h2>About me</h2>`) la classe `me`, al `div` successivo (il `div` che contiene `<h2>Working Experience</h2>` la classe `cv`) 
+16. 
+
