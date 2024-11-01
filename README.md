@@ -132,3 +132,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 27. Imposta per il tag `form` un margine superiore di 100px ed uno sinistro di 250px, imposta per il tag `p` interno al tag `form` una dimensione del font di 20px
 
 ![punto_27](https://github.com/user-attachments/assets/d7d9cdc7-af26-4972-bee7-2e5625471200)
+
+28. In `tpsi_5a_24_25.html` assegna al tag `table` la classe `calendar` e per tutti i tag `tr` e `td` della classe `calendar` imposta un bordo di 1px di colore `#aaaaaa`
+
+![punto_28](https://github.com/user-attachments/assets/8d158e11-138a-4110-b7ef-bf50d0815299)
