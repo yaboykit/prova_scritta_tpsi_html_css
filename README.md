@@ -140,3 +140,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 29. In `tpsi_5a_24_25.html` assegna alla classe `calendar` un margine superiore di 100px ed al tag `thead` uno sfondo di colore `#000000` ed un colore del testo `#ffffff`
 
 ![punto_29](https://github.com/user-attachments/assets/5f85fec6-a468-4fc1-ba2c-8dbedfbddcec)
+
+30. Assegna a tutti i tag `td` del mese di Ottobre in cui c'è una lezione la classe `lecture` e a quelli in cui non c'è lezione la classe `nolecture`, imposta per la classe `lecture` uno sfondo di colore `#ffffaa` e per la classe `nolecture` il colore `#aaaaaa`
+
+![punto_30](https://github.com/user-attachments/assets/b1c2b919-a189-4bb5-8361-fc12218535e1)
