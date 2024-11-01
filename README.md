@@ -1,4 +1,4 @@
-## Testo prova scritta
+## TPSI: prova pratica al calcolatore (HTML/CSS)
 Il repository corrente contiene i seguenti file:
 
 * home.html
