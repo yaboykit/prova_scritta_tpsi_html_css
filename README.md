@@ -121,3 +121,6 @@ Di seguito sono elencati i punti per il completamento del sito:
     
 ![punto_24](https://github.com/user-attachments/assets/0064dc38-e99a-4a7f-9a11-274ae65c7203)
 
+25. Per tutti i tag `input` imposta un bordo di 1px di colore `FFD700`, solo per il tag `input` di tipo `button` imposta un'altezza di 40px e la dimensione del font di 20px
+
+![punto_25](https://github.com/user-attachments/assets/e36dfd5c-81f3-432a-a175-a8a94f64d076)
