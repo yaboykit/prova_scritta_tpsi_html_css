@@ -90,3 +90,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 18. Giustifica il testo della classe `me`, aggiungi l'immagine `images/me.jfif` in `home.html` sotto `<h2>About me</h2>` rendila flottante a sinistra ed imposta un padding destro di 10px
 
 ![punto_18](https://github.com/user-attachments/assets/b77001ee-42ca-4249-bb1a-bfa9aad61857)
+
+19. In `courses.html` assegna la classe `courses` al tag `ul` e associa un collegamento ipertestuale al testo `TPSI 5` che porti l'utente (cliccandoci) alla pagina `tpsi_5a_24_24.html`
+
+20. 
