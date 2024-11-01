@@ -97,3 +97,8 @@ Di seguito sono elencati i punti per il completamento del sito:
 
 ![punto_20](https://github.com/user-attachments/assets/71f323f5-be80-47cc-9cba-9815d5c18bdc)
 
+21. Elimina il pallino per tutti i tag `li` della classe `courses` ed imposta per loro una larghezza di 900px ed un altezza di 210px
+
+![punto_21](https://github.com/user-attachments/assets/9159338e-10bb-4df7-ae92-9136e1b56ee2)
+
+22.
