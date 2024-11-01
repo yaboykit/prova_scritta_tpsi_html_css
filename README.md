@@ -104,3 +104,20 @@ Di seguito sono elencati i punti per il completamento del sito:
 22. Per i tag `p` della classe `courses` giustifica il testo ed imposta un margine superiore di 1px, per i tag `h4` della classe `courses` un margine superiore di 1px
 
 ![punto_22](https://github.com/user-attachments/assets/afd32c13-3625-4bef-9206-61f1beaed1e9)
+
+23. In `contacts.html` all'interno del tag `form` inserisci rispettivamente
+    1. tag `label` (con testo `Name: `) e tag `input` di tipo `text`
+    2. tag `label` (con testo `Surname: `) e tag `input` di tipo `text`
+    3. tag `label` (con testo `Object: `) e tag `input` di tipo `text`
+    4. tag `label` (con testo `Email: `) e tag `input` di tipo `email`
+    5. tag `label` (con testo `Message: `) e tag `textarea` di tipo `text`
+    6. tag `input` di tipo `button` con valore `Submit`
+    7. Setta correttamente attributi `id` e `for` rispettivamente per i tag `input` e `label`
+       
+![punto_23](https://github.com/user-attachments/assets/ba2df684-fb49-4e5f-83d5-c30150f2ac16)
+
+
+24. Traforma tutti i tag `label` ed `input` da inline ad block level tag in modo da avere un elemento per riga, imposta per entrambi una larghezza di 600px, un margine superiore di 5px e la dimensione del font di 20px
+    
+![punto_24](https://github.com/user-attachments/assets/0064dc38-e99a-4a7f-9a11-274ae65c7203)
+
