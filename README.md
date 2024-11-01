@@ -9,7 +9,7 @@ Il repository corrente contiene i seguenti file:
 
 E' già presente del codice di partenza in ciascuno dei file elencati sopra.
 Il tuo compito è quello di aggiungere il codice mancante e completare il sito.
-Di seguito sono elencati i punti per il completamento del sito, OGNI PUNTO VALE 0.3 tranne l'ultimo punto che valore 1 (0,3*30 + 1 = 10):
+Di seguito sono elencati i punti per il completamento del sito, *OGNI PUNTO VALE 0.3 tranne l'ultimo punto che ha valore 1* (0,3*30 + 1 = 10):
 
 1. In tutte le pagine, all'interno di `<head>` sotto `<title>` linka il file css esterno: `style.css`
 2. Appena sotto il `<body>`, aggiungi un `div` contenente una lista non ordinata: tag `<ul>`
