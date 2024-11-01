@@ -128,3 +128,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 26. Solo per il tag `textarea` imposta una larghezza di 600px ed un'altezza di 400px un bordo uguale a quello del punto 25 ed un margine superiore di 5px
 
 ![punto_26](https://github.com/user-attachments/assets/2e414888-f66a-4129-bb18-ef7d399e7c4d)
+
+27. Imposta per il tag `form` un margine superiore di 100px ed uno sinistro di 250px, imposta per il tag `p` interno al tag `form` una dimensione del font di 20px
+
+![punto_27](https://github.com/user-attachments/assets/d7d9cdc7-af26-4972-bee7-2e5625471200)
