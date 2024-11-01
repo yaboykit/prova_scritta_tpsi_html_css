@@ -101,4 +101,6 @@ Di seguito sono elencati i punti per il completamento del sito:
 
 ![punto_21](https://github.com/user-attachments/assets/9159338e-10bb-4df7-ae92-9136e1b56ee2)
 
-22.
+22. Per i tag `p` della classe `courses` giustifica il testo ed imposta un margine superiore di 1px, per i tag `h4` della classe `courses` un margine superiore di 1px
+
+![punto_22](https://github.com/user-attachments/assets/afd32c13-3625-4bef-9206-61f1beaed1e9)
