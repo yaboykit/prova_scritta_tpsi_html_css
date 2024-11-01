@@ -136,3 +136,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 28. In `tpsi_5a_24_25.html` assegna al tag `table` la classe `calendar` e per tutti i tag `tr` e `td` della classe `calendar` imposta un bordo di 1px di colore `#aaaaaa`
 
 ![punto_28](https://github.com/user-attachments/assets/8d158e11-138a-4110-b7ef-bf50d0815299)
+
+29. In `tpsi_5a_24_25.html` assegna alla classe `calendar` un margine superiore di 100px ed al tag `thead` uno sfondo di colore `#000000` ed un colore del testo `#ffffff`
+
+![punto_29](https://github.com/user-attachments/assets/5f85fec6-a468-4fc1-ba2c-8dbedfbddcec)
