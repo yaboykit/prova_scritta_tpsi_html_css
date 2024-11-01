@@ -9,7 +9,7 @@ Il repository corrente contiene i seguenti file:
 
 E' già presente del codice di partenza in ciascuno dei file elencati sopra.
 Il tuo compito è quello di aggiungere il codice mancante e completare il sito.
-Di seguito sono elencati i punti per il completamento del sito:
+Di seguito sono elencati i punti per il completamento del sito, OGNI PUNTO VALE 0.3 tranne l'ultimo punto che valore 1 (0,3*30 + 1 = 10):
 
 1. In tutte le pagine, all'interno di `<head>` sotto `<title>` linka il file css esterno: `style.css`
 2. Appena sotto il `<body>`, aggiungi un `div` contenente una lista non ordinata: tag `<ul>`
@@ -144,3 +144,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 30. Assegna a tutti i tag `td` del mese di Ottobre in cui c'è una lezione la classe `lecture` e a quelli in cui non c'è lezione la classe `nolecture`, imposta per la classe `lecture` uno sfondo di colore `#ffffaa` e per la classe `nolecture` il colore `#aaaaaa`
 
 ![punto_30](https://github.com/user-attachments/assets/b1c2b919-a189-4bb5-8361-fc12218535e1)
+
+31. Nascondi i tag `li` con testo: `Nessuna`
+
+![punto_31](https://github.com/user-attachments/assets/92946b6c-ee3b-40a8-a7a6-9a4b664067b9)
