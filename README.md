@@ -93,4 +93,7 @@ Di seguito sono elencati i punti per il completamento del sito:
 
 19. In `courses.html` assegna la classe `courses` al tag `ul` e associa un collegamento ipertestuale al testo `TPSI 5` che porti l'utente (cliccandoci) alla pagina `tpsi_5a_24_24.html`
 
-20. 
+20. Rendi flottanti a sinistra tutti i tag `img` della classe `courses`, imposta anche per questi tag una larghezza di 170px ed un'altezza di 210px. Infine imposta il padding destro e inferiore a 10px
+
+![punto_20](https://github.com/user-attachments/assets/71f323f5-be80-47cc-9cba-9815d5c18bdc)
+
