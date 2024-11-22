@@ -9,3 +9,114 @@ html, body {
 body {
     font-family: verdana, arial, helvetica, sans-serif;
 }
+.nav{
+    text-align: center;
+    background-color:#FFD700;
+    padding:0 2px 0 2px;
+    border-color: #e7e7e7;
+}
+.nav li{
+    font-size: 20px;
+    font-weight: bold;
+    margin:0 40px 0 40px;
+    display: inline;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+.courses h4{
+    margin-top: 0px;
+
+}
+.courses main{
+    
+}
+.courses img{
+    float: left;
+    width: 170px;
+    height: 210px;
+    padding: 0 10px 10px 0;
+}
+.courses li{
+    list-style-type: none;
+    width: 500px;
+    height: 210px;
+}
+.courses p{
+    text-align: justify;
+    margin-top: 1px;
+
+}
+.main{
+    width: 900px;
+    height: 900px;
+    margin: 0 auto 0 auto;
+    padding: 0 auto 0 auto;
+}
+.me img{
+    float: left;
+    padding-right: 10px;
+}
+.cv ul{
+    padding-left: 0;
+
+}
+.cv li {
+    list-style-type: none;
+    text-align: justify;
+    border-bottom: 1px solid #FFD700;
+}
+.cv img{
+    float: left;
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+}
+.footer{
+    background-color: #FFD700;
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align: center;
+}  
+.footer img{
+    width: 50px;
+}
+.footer li{
+    display: inline;
+
+}
+form{
+    margin: 100px 0 0 250px;
+}
+form p{
+    
+
+}
+.label, input{
+    display: block;
+    width: 600px;
+    margin-top: 5px;
+    font-size: 20px;
+
+}
+input{
+    
+
+}
+
+thead{
+    background-color: black;
+    color: #ffffff;
+}
+.calendar{
+    margin-top: 100px;
+
+}
+.calendar tr, .calendar td{
+    border: 1px solid #aaaaaa;
+    
+}
+ 
