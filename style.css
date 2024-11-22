@@ -29,9 +29,6 @@ body {
     margin-top: 0px;
 
 }
-.courses main{
-    
-}
 .courses img{
     float: left;
     width: 170px;
@@ -91,10 +88,6 @@ body {
 form{
     margin: 100px 0 0 250px;
 }
-form p{
-    
-
-}
 .label, input{
     display: block;
     width: 600px;
@@ -102,11 +95,6 @@ form p{
     font-size: 20px;
 
 }
-input{
-    
-
-}
-
 thead{
     background-color: black;
     color: #ffffff;
@@ -117,6 +105,6 @@ thead{
 }
 .calendar tr, .calendar td{
     border: 1px solid #aaaaaa;
-    
+
 }
  
